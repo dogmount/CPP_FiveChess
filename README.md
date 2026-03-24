@@ -1,1 +1,2 @@
-# CPP_FiveChess
+# C++五子棋练习
+C++与EGE图形库练习
